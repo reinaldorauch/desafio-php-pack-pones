@@ -27,9 +27,9 @@ return function (ContainerBuilder $containerBuilder) {
         ],
         'database_config' => [
           'driver' => 'pdo_mysql',
-          'user' => 'desafio_pgp_pack_pones',
-          'dbname' => 'desafio_pgp_pack_pones',
-          'password' => 'desafio_pgp_pack_pones_user',
+          'user' => 'desafio_php_pack_pones',
+          'dbname' => 'desafio_php_pack_pones',
+          'password' => 'desafio_php_pack_pones_user',
         ] 
       ]);
     }
